@@ -22,7 +22,7 @@ memory_sizes:
   metaspace: 64m..
   # permgen: 64m..
 memory_heuristics:
-  heap: 512
+  heap: 100
   metaspace: 10
   # permgen: 10
   stack: 5
