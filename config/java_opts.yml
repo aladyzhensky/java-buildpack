@@ -16,4 +16,4 @@
 # JAVA_OPTS configuration
 ---
 from_environment: true
-java_opts: -Xmx2048m -XX:MaxPermSize:1024m
+#java_opts: -Xmx2048m -XX:MaxPermSize:1024m
