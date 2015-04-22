@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 *.ipr
 *.ids
@@ -18,3 +19,11 @@ target/
 build/
 
 *.log*
+=======
+.idea/tasks.xml
+.idea/workspace.xml
+.yardoc
+build/
+coverage
+doc
+>>>>>>> upstream/master
